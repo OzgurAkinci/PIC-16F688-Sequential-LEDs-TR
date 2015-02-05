@@ -1,0 +1,45 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+019.6   C1OUT
+020     @SCRATCH
+021     @SCRATCH
+021     _RETURN_
+022     @SCRATCH
+023     @SCRATCH
+024     @SCRATCH
+026     @delay_ms1.P1
+10D-10E @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+0004  @delay_ms1
+0018  main
+0018  @cinit
+
+Project Directory:
+    E:\HDD\YAZILIM\PIC\pic_projects\pic-16F688\sirali_led\code_files\
+
+Project Files:
+    main.c
+    main.h
+    C:\Program Files (x86)\PICC\devices\16F688.h
+
+Units:
+    E:\HDD\YAZILIM\PIC\pic_projects\pic-16F688\sirali_led\code_files\main.c (main)
+
+Compiler Settings:
+    Processor:      PIC16F688
+    Pointer Size:   16
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.PJT
+    Call Tree:   main.tre
+    Statistics:  main.sta

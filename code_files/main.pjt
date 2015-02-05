@@ -1,0 +1,25 @@
+[PROJECT]
+Target=main.hex
+Development_Mode=
+Processor_Text=PIC16F688
+ToolSuite=CCS
+Processor=0x6688
+[main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=main
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=main.c
+[Opened Files]
+1=E:\HDD\YAZILIM\PIC\pic_projects\pic-16F688\sirali_led\code_files\main.c
+2=E:\HDD\YAZILIM\PIC\pic_projects\pic-16F688\sirali_led\code_files\main.h
+3=
